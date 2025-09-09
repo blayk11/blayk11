@@ -1,8 +1,8 @@
 ## 👋 Hey, I'm Caio
 
-> #### Reading data to understand real-world scenarios — with storytelling, structure, and a builder’s mindset.
+> #### Reading data to understand real-world scenarios.
 > #### Creative, analytical, and hands-on by nature. I learn by doing, experiment with intent, and keep things practical.
-> #### — Just someone who solves problems with clarity and builds with purpose.
+> #### — Someone who solves problems with clarity and builds with purpose.
 
 ---
 
