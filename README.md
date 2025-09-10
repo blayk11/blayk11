@@ -1,7 +1,7 @@
 ## 👋 Hey, I'm Caio
 
 > #### Reading data to understand real-world scenarios.
-> #### Creative, analytical, and hands-on by nature. I learn by doing, experiment with intent, and keep things practical.
+> #### Creative, analytical, and hands-on by nature. I learn through action, guided by intent, and grounded in practicality.
 > #### — Someone who solves problems with clarity and builds with purpose.
 
 ---
