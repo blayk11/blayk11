@@ -1,25 +1,25 @@
-## 👋 Hey, I'm Caio
+## 👋 Hey, I'm César
 
-> #### Reading data to understand real-world scenarios.
-> #### Creative, analytical, and hands-on by nature. I learn through action, guided by intent, and grounded in practicality.
-> #### — Someone who solves problems with clarity and builds with purpose.
+> #### Reading data to understand real-world scenarios — and applying AI to create solutions.  
+> #### Analytical and creative by nature: I explore data, build tools, and experiment with design.  
+> #### — Someone who solves problems with clarity and codes with purpose.  
 
 ---
 
 ## 🔧 Tools I use (or getting familiar with)
 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Caio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blayk11&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blayk11&layout=compact&theme=radical)
+![Caio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blayk11&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blayk11&layout=compact&theme=radical)  
 
 ---
 
